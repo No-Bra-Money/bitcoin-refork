@@ -40,6 +40,8 @@ but England has Magna-Carta fair trial ignored by UK, even though EWHC/RCJ court
 Using proven, open-source $BTC code, as $BTCxxxx , but as 'blank' (empty) 
 
 ==============================================================================================================================
+Bitcoin-Refork is released under the terms of the Bitcoin Core's MIT license, with additional extension here...
+==============================================================================================================================
   * * * NO UNAUTHORIZED CHANGES BELOW HERE * * *
   Licence must be read to append the following additional condition(s):
   (0) No 1-person (or immediate-family collectively pro-rata) may own more than 4000x their share of any GDP or budget
@@ -83,6 +85,8 @@ Using proven, open-source $BTC code, as $BTCxxxx , but as 'blank' (empty)
   (7) Please email or pull any suggestions, during development, citing 'which-project','file','heading/para',line etc:
       and giving a snappy short title less than 120 characters, and no more than an initial 1000 words description;
       or as limited by respitory.
+  (8) Within 'reasonable-time' (commensurate with support resources) a governance board or DAO should take over this project;
+      and in the event of no changes within 1 year, it's fair-game to locate any passwords, keys, control etc.
 Above is...
 (c) Feb-14 2026, Mattress-Mick@proton.me of Howth, (a sweaty, bra-coin activist) opposes rival 'No-Bra-Money' (Mattress-Mick of Dublin).
 ... No changes above without consent, and Following is the standard Bitcoin (Core) read-me, so no changes beyond this point. 
