@@ -70,7 +70,13 @@ Using proven, open-source $BTC code, as $BTCxxxx , but as 'blank' (empty)
       civil-war in accordance with any applicable international standards; and any sensible limits placed within borders,
       from external countries seeking to umniversally impose such within someone else's remit.
   (5) This is a tool, and does not prescribe, nor take responsibility for what anyone does with their generated instance.
-  (6) Please email or pull any suggestions, during development, citing 'which-project','file','heading/para',line etc:
+  (6) Any change within copied Bitcoin-Core code, should be clearly identified, with 'bitcoin-refork:' along with
+      'comment: {reason, change-Ref-ID}', 'comment: removed this code...{bitcoin-code}', 'comment: added...',
+      then... (actual) {refork-code}... 'comment: {End of refork-code, change-Ref-ID}';
+      also a Diff(erence) source-code file needs to be generated, changes (preferably independently)verified,
+      along with author(s)/Initials etc; or whatever process is in place at that time, including respect for Bitcoin
+      Core and their excellent work ~ However, it IS open-source, and available to change. 
+  (7) Please email or pull any suggestions, during development, citing 'which-project','file','heading/para',line etc:
       and giving a snappy short title less than 120 characters, and no more than an initial 1000 words description;
       or as limited by respitory.
 Above is...
