@@ -29,7 +29,9 @@ That's wrong, taxpayer and pension funds should be in trust.
 In response to Donald Trump threatening to invade Greenland (and steal its resources) before anyone else.
 Ditto Russia-Ukraine, ditto China-Taiwan etc...
 Similarly Catalonia was refused Independence vote, based on 'Spanish' Constitutional Treaty;
-just as United States' stopped Confederate States from ceding from its 'Federal Union'.
+just as United States' stopped Confederate States from ceding from its 'Federal Union';
+but England has Magna-Carta fair trial ignored by UK, even though EWHC/RCJ court devolved decision to USA.
+[18th Apr'06 US Supreme Court, H 'England by Conquest' v H per-curiam / et-seq HRH-QE2; duly served as waived quad-cent JamesTown,USA]
 
 Using proven, open-source $BTC code, as $BTCxxxx , but as 'blank' (empty) 
 
