@@ -9,11 +9,22 @@ Donations of bitcoin $BTC, fiat etc most welcome to progress this project; which
 project & protocol; just needed a working version of Bitcoin to integrate with, and no-idea why someone else hasn't made this 
 re-forkable as clean your own project; seems as if Bitcoin-Core and those holding BTC wanted to obstruct such clones (imho).
 
-De-Dollarise World-Trade by 24-year '(shadow) staFle-coin' morph to National/Federal $BTC-xxx 'Reserve-Bank' Treasuries,
+De-Dollarise World-Trade by 24-year '(shadow) staFle-coin' slowly morphing to National/Federal $BTC-xxx 'Reserve-Bank' Treasuries,
 scaled towards a 2050 World-Fed, alongside existing 'stateless' Crypto... 
 =============================================
 
 (2026 Valentine's) Re-Fork is a new (2026) ambitious crypto-punk project, to enable 'financial rebels' to replace $USD.
+
+The U.S. dollar is used in a significant majority of global trade transactions, with estimates indicating it accounts 
+for approximately 54% to 56% of global trade invoicing.  This dominance is particularly strong in regions such as the 
+Americas (96% of trade invoicing from 1999–2019), the Asia-Pacific region (74%), and the rest of the world (79%). 
+
+In the broader context of international finance, the dollar is involved in about 88% of foreign exchange transactions 
+and remains the primary currency for commodities like oil and gold. Even if unobvious, banks use it's 'credit'(debt).
+
+While alternative currencies like the euro and Chinese yuan are gaining traction, especially in regional trade, 
+the U.S. dollar continues to be the dominant currency in global commerce due to its stability, liquidity, and 
+deep financial markets. 
 
 The USA represents 3.5% of World-Population, but post 1944 Bretton-Woods, dictated much post-WW2 Global-Trade Currency.
 That places the USA at an unfair advantage, and has lead to deficits, in part funded by everyone else.
